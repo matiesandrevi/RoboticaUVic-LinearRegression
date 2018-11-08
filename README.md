@@ -15,11 +15,7 @@ This is a personal assignment, please complete it **individually**.
 
 This and the next three homework assignments have to be completed
 using Python. Python is a very easy to learn and flexible programming
-language, with many libraries for the most diverse tasks. There are
-currently two main flavours of Python that are not fully compatible:
-version 2 (currently 2.7) and version 3 (currently 3.5). In this
-course we will be using version 2.7, as the version of OpenCV shipped
-with Ubuntu does not support the latter version.
+language, with many libraries for the most diverse tasks.  
 
 For the homework in this course, we will use the following libraries, mostly from the SciPy family:
 - [SciPy](http://www.scipy.org/) is a collection of libraries for scientific computing in Python.
@@ -45,7 +41,7 @@ programming languages are already known. There are some tutorials to
 get up to speed in a few minutes:
 - *Learn Python in 10 minutes* [tutorial](http://www.stavros.io/tutorials/python/) for beginners
 - A very concise and recommendable **Python+Numpy** [tutorial](https://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson. Here the [ipython notebook version](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
-- Official Python 2 [tutorial](https://docs.python.org/2/tutorial/)
+- Official Python [tutorial](https://docs.python.org/3/tutorial/index.html)
 - OpenCV-Python [tutorials](https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html)
 
 For this assignment, it is recommended to read at least the **Python+Numpy** tutorial.
