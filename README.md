@@ -1,6 +1,5 @@
-# Pattern Recognition Assignments 1: Linear Regression
-UVic Robotics Master. Perception. Homework 4.
-
+# Pattern Recognition: Linear Regression
+UVic Robotics Master. Perception.
 ## Instructions
 
 Clone this repository and write code to complete the assignments. When
